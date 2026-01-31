@@ -14,6 +14,11 @@
     "type": "iframe",
     "url": "https://webiptv.site/jwlatest?url=https%3A%2F%2Fwebiptv.site%2Fbyps.m3u8"
   },
+  "wwe": {
+    "title": "wwe",
+    "type": "iframe",
+    "url": "https://silenthillf.loreofeldenring.site/dailymotion/live/playlist/2.m3u8"
+  },
   "fox": {
     "title": "fox",
     "type": "iframe",
