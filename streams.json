@@ -22,7 +22,7 @@
   "wwe2": {
     "title": "l1",
     "type": "iframe",
-    "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/G281jEMAKH2IoNIddkSd-CskPi7N9v-nydXPQnh0y4sKIR9e20UvnBv1ypf4Oi6bR3-ih8GZA2OXqWE1jGaQfQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live"
+    "url": "https://storage.googleapis.com/overgamesdjhqa2/mux_video_ts/index-1.m3u8"
   },
   "fox": {
     "title": "fox",
