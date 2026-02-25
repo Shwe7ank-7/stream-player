@@ -27,6 +27,6 @@
   "fox": {
     "title": "fox",
     "type": "iframe",
-    "url": "https://webiptv.site/jwlatest?url=https%3A%2F%2Fwebiptv.site%2Fbyps2.m3u8"
+    "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/CqFR0v_5FLsWWN6UuPXDT_RLYO50oAZ9GMHyjmhql_5-e097mwYCrh9yHs654xNE_Yr7gth2KesGp4XM_4GLQQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live"
   }
 }
