@@ -20,9 +20,9 @@
     "url": "http://138.199.14.94:443/4558/video.m3u8?token=6aa2c244460fe81a3bd27bb0e832958d"
   },
   "wwe2": {
-    "title": "cs",
+    "title": "hs",
     "type": "iframe",
-    "url": "https://storage.googleapis.com/unjhgertyngyut2/mux_video_ts1/index-1.m3u8"
+    "url": "https://live-cf.cdn.hotstar.com/hls/live/2024726/inallow-ipl-2026/hin/1540065700/15mindvrm01dfdcfcb0fb8d4fb1ae83bd762807b84e03april2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1775305362~acl=/hls/live/2024726/inallow-ipl-2026/hin/1540065700/15mindvrm01dfdcfcb0fb8d4fb1ae83bd762807b84e03april2026/master_ap~ttl=3600~type=free~data=ip=BNupoQ3Lvau-userid=vBT7PtHW5E7-did=MZDAIbQBxZt-cc=in-~hmac=d55d0a81edbb1488dcf1f04640745471f8bdb39ecb9afe9f31e154a07670ad93&Expires=1775305362&Signature=CG99i1UiO5SWISybZA50uDOPDmn74qXRK0VY8GrcVcVI1tk1iHDDR89DOOsA-SPBpOalbxxv7NUMgBRiYz1fDKViMt62fomzhNpnqdpCk~D4xvQftUsLbHqBJSb65lBVAPLQ0MDkh3ryz-~Yy5Vvu4vwg-qEO0k6mXjNz1DC8DEYQbtYMWFS5VUh1tarTDA6UH-dLHvJx~Ce-TLMyQ1Y3g2DF4Al47BVi3WKeTqAlZJSjNQG87NYo16xmrm9kOKL5G~joCv1gqnPbX61kZT72iE2L3QWKp9RSzmEFvraKpGUnnTHVmRMK2kVMxd6Ta-H28aNfar0B~MGgIFlzUhDHg__&Key-Pair-Id=APKAJC3ILMJXG4AINKJA"
   },
   "fox": {
     "title": "fox",
